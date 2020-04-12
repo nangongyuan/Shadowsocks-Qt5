@@ -1,0 +1,37 @@
+﻿  moc types\address.h
+  moc util\controller.h
+  moc util\addresstester.h
+  moc network\udprelay.h
+  moc network\tcpserver.h
+  moc network\tcprelayserver.h
+  moc network\tcprelayclient.h
+  moc network\tcprelay.h
+  moc network\socketstream.h
+  moc network\httpproxy.h
+  chacha.cpp
+  cipher.cpp
+  encryptor.cpp
+  rc4.cpp
+  httpproxy.cpp
+  socketstream.cpp
+  tcprelay.cpp
+  tcprelayclient.cpp
+  tcprelayserver.cpp
+  tcpserver.cpp
+  udprelay.cpp
+  address.cpp
+  profile.cpp
+  addresstester.cpp
+  common.cpp
+  controller.cpp
+  moc_address.cpp
+  moc_controller.cpp
+  moc_addresstester.cpp
+  moc_udprelay.cpp
+  moc_tcpserver.cpp
+  moc_tcprelayserver.cpp
+  moc_tcprelay.cpp
+  moc_tcprelayclient.cpp
+  moc_socketstream.cpp
+  moc_httpproxy.cpp
+  libQtShadowsocks.vcxproj -> G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQtShadowsocks.lib

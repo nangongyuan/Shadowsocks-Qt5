@@ -1,0 +1,10 @@
+{
+    "server":"104.207.135.75",
+    "server_port":443,
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "password":"Geg2k7dehT1f",
+    "timeout":600,
+    "method":"aes-256-cfb",
+    "http_proxy": true
+}

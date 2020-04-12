@@ -1,0 +1,11 @@
+﻿qrencoded.lib(qrencode.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+qrencoded.lib(bitstream.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(bitstream.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(mask.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(mask.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(mmask.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(mmask.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(mqrspec.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(mqrspec.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(qrencode.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(qrencode.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(qrinput.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(qrinput.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(qrspec.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(qrspec.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(rsecc.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(rsecc.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+qrencoded.lib(split.obj) : warning LNK4099: 未找到 PDB“libQR.pdb”(使用“qrencoded.lib(split.obj)”或在“G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\libQR.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Shadowsocks-Qt5.vcxproj -> G:\C++工具源码\Shadowsocks-Qt5\Shadowsocks-Qt5\Debug\Shadowsocks-Qt5.exe
